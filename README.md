@@ -17,3 +17,9 @@ Exemplos do Resultado do algoritmo:
 
 ![1](https://user-images.githubusercontent.com/118749134/205461727-468ca975-e1ab-4f94-b4e8-3fc11decdc7d.png)
 ![2](https://user-images.githubusercontent.com/118749134/205461729-9341971e-c49d-4247-b3cb-74837369cac6.png)
+
+
+
+# [Projeto 2: Prevendo_Sucesso_de_Start_Ups](https://github.com/MarcoAfB/Prevendo_Sucesso_de_Start_Ups)
+
+O projeto irá buscar analisar e melhor prever o futuro de uma start-up, se baseando nos dados coletados em Kicksatarter que segundo eles são: "As campanhas do Kickstarter transformam ideias em realidade. É onde os criadores compartilham novas visões para o trabalho criativo com as comunidades que se reunirão para financiá-los".
