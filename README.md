@@ -23,3 +23,6 @@ Exemplos do Resultado do algoritmo:
 # [Projeto 2: Prevendo_Sucesso_de_Start_Ups](https://github.com/MarcoAfB/Prevendo_Sucesso_de_Start_Ups)
 
 O projeto irá buscar analisar e melhor prever o futuro de uma start-up, se baseando nos dados coletados em Kicksatarter que segundo eles são: "As campanhas do Kickstarter transformam ideias em realidade. É onde os criadores compartilham novas visões para o trabalho criativo com as comunidades que se reunirão para financiá-los".
+
+# [Projeto 3: CNN_Network_Classificando_Plantas](https://github.com/MarcoAfB/CNN_Network_Classificando_Plantas)
+Comecei a estudar um pouco sobre como CNN funciona, e então com imagens retiradas da internet testei e coloquei em prática o que vinha sendo estudado.
