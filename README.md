@@ -26,3 +26,9 @@ O projeto irá buscar analisar e melhor prever o futuro de uma start-up, se base
 
 # [Projeto 3: CNN_Network_Classificando_Plantas](https://github.com/MarcoAfB/CNN_Network_Classificando_Plantas)
 Comecei a estudar um pouco sobre como CNN funciona, e então com imagens retiradas da internet testei e coloquei em prática o que vinha sendo estudado.
+
+# [Projeto 4: Cliente_churn](https://github.com/MarcoAfB/Cliente_churn-Pyspark-)
+
+O objetivo do projeto é criar um modelo que possa identificar pelas atitudes dos usuários um possível cancelamento na inscrição do serviço.
+Nele além das bibliotecas que normalmente utilizo (pandas, numpy, scikit-learn, etc) foi usado pyspark, a intenção era ganhar mais familiaridade com a tecnologia e poder aplicar o que vem sendo estudado.
+
