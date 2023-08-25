@@ -32,3 +32,6 @@ Comecei a estudar um pouco sobre como CNN funciona, e então com imagens retirad
 O objetivo do projeto é criar um modelo que possa identificar pelas atitudes dos usuários um possível cancelamento na inscrição do serviço.
 Nele além das bibliotecas que normalmente utilizo (pandas, numpy, scikit-learn, etc) foi usado pyspark, a intenção era ganhar mais familiaridade com a tecnologia e poder aplicar o que vem sendo estudado.
 
+# [Projeto 5: Inteligência Artificial](https://github.com/MarcoAfB/Inteligencia_Artifical)
+
+
