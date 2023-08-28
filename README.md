@@ -32,6 +32,7 @@ Comecei a estudar um pouco sobre como CNN funciona, e então com imagens retirad
 O objetivo do projeto é criar um modelo que possa identificar pelas atitudes dos usuários um possível cancelamento na inscrição do serviço.
 Nele além das bibliotecas que normalmente utilizo (pandas, numpy, scikit-learn, etc) foi usado pyspark, a intenção era ganhar mais familiaridade com a tecnologia e poder aplicar o que vem sendo estudado.
 
-# [Projeto 5: Inteligência Artificial](https://github.com/MarcoAfB/Inteligencia_Artifical)
+# [Projeto 5: Inteligência Artificial (artificial intelligence a modern approach)](https://github.com/MarcoAfB/Inteligencia_Artifical)
+A principal intenção é colocar em prática os conhecimentos adquiridos do livro artificial intelligence a modern approach sendo por projetos de estudo indicado por ele como também alguns em situações mais práticas à qual eu entendo se encaixar.
 
 
