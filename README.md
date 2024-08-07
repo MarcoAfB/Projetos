@@ -34,4 +34,8 @@ O objetivo do projeto é criar um modelo que possa identificar, pelas atitudes d
 # [Projeto 5: Inteligência Artificial (artificial intelligence a modern approach)](https://github.com/MarcoAfB/Inteligencia_Artifical)
 A principal intenção é colocar em prática os conhecimentos adquiridos do livro artificial intelligence  approach, sendo por projetos de estudo indicados por ele, como também alguns em situações mais práticas às quais eu entendo se encaixar.
 
+# [Projeto 6: Compactação de Imagem](https://github.com/MarcoAfB/KMeans_Compactacao_de_Imagem)
+
+Projeto de compactação de imagem, o objetivo é diminuir a quantia de espaço necessário para armazenar uma imagem tendo ainda uma qualidade aceitável.
+O método utilizado assume que pixels próximos tendem a ter a mesma cor. Iremos então juntar pixels em quadrados, assim, não passamos a considerar apenas 1 pixel individualmente e sim um grupo (isso não ocorre se o agrupamento for 1x1). Esse agrupamento de pixel é transformado em uma fileira em um conjunto de dados 2D, que então irá passar por um algoritmo de cluster, sendo o usado K-means, para poder identificar os grupos que são similares para então representá-los com apenas uma cor ao invés de várias cores muito parecidas. Isso tende a reduzir o espaço de armazenamento, pois é tirado proveito dessa característica que vários pixels terão a mesma cor.
 
